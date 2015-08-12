@@ -1,7 +1,7 @@
 /**
  * Created by Administrator on 2015/8/12.
  */
-define(["./cart","./inventory"],function(cart,inventory){/* ./ 说明是以baseurl为根路径 */
+define(["./cart","./inventory"],function(cart,inventory){/* ./ 脣碌脙梅脢脟脪脭baseurl脦陋赂霉脗路戮露 */
     //return an object
     return {
         color:"blue",
